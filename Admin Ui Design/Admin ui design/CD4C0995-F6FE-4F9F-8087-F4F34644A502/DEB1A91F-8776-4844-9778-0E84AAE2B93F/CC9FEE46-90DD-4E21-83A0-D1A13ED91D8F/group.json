@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "CC9FEE46-90DD-4E21-83A0-D1A13ED91D8F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 71,
+    "width": 350,
+    "x": 0,
+    "y": 307
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "82A064D2-98EC-485F-B3C7-21F8EFBC41A5"
+    },
+    {
+      "class": "text",
+      "id": "5AD00016-5456-4B9C-B284-B09358D6C363"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D4B993CE-0221-4090-8E5C-ED70F4A6C1C6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "11DD06FE-3762-4DB7-94D2-14338E6BBA78"
+    }
+  ],
+  "name": "D_Design",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
