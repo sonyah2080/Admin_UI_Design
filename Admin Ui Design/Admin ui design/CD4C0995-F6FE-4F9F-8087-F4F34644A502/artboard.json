@@ -52,6 +52,50 @@
     {
       "class": "shapeGroup",
       "id": "2C33B57D-F700-4756-B8AA-70BF65962F33"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3C32BD86-DE08-4D51-B85D-D3BEF6E14274"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F787741B-34AF-437C-AADA-443B75F48E1B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C57141C9-0451-4B2B-B336-8943502232DC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "184C1643-2796-4287-A9EA-45235F712CA7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E3368985-D411-41F6-8A33-19EBC1814C57"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "79F3542C-1E79-44D5-B657-B61B5005CD8E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EB9944DA-7435-4387-A51C-5CECDFDE652A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DCB544F8-36EF-4902-A5C2-BE20C3640BAC"
+    },
+    {
+      "class": "group",
+      "id": "639C28A0-11D9-4D37-B07F-8917C0D6DD31"
+    },
+    {
+      "class": "text",
+      "id": "D5CBAB24-A229-4BCA-85FE-3A121DEAD965"
+    },
+    {
+      "class": "group",
+      "id": "68E68664-0745-4608-9BA3-EEBE1B023AA8"
     }
   ],
   "name": "Admin_page",
