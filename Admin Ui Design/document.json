@@ -16,8 +16,6 @@
   },
   "colorSpace": 0,
   "do_objectID": "a4f3f040-1613-11e8-bcdd-b3572ff4bb72",
-  "enableLayerInteraction": true,
-  "enableSliceInteraction": true,
   "foreignSymbols": [
   ],
   "layerSymbols": {
@@ -26,9 +24,9 @@
     ]
   },
   "meta": {
-    "appVersion": "48.2",
-    "build": 47327,
-    "version": 97
+    "appVersion": "49",
+    "build": 51002,
+    "version": 101
   },
   "pages": [
     "Admin ui design",
